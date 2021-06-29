@@ -1,8 +1,8 @@
 <template>
   <div class="footer">
-    <div class="links">
-      <a href="http://www.jeecg.com" target="_blank">JEECG 首页</a>
-      <a href="https://github.com/zhangdaiscott/jeecg-boot" target="_blank">
+<!--    <div class="links">
+      <a href="#" target="_blank">系统监控 首页</a>
+      <a href="#" target="_blank">
         <a-icon type="github"/>
       </a>
       <a href="https://ant.design/">Ant Design</a>
@@ -11,8 +11,8 @@
     <div class="copyright">
       Copyright
       <a-icon type="copyright"/>
-      2019 <span>JEECG开源社区 出品</span>
-    </div>
+      2021 <span>科技部 出品</span>
+    </div>-->
   </div>
 </template>
 
